@@ -12,3 +12,5 @@ if (busca === -1) {
 } else {
   console.log(`O número ${num} pertence à sequência Fibonacci`)
 }
+
+/* Talvez esse código não rode direito no vscode, no meu caso ele não estava aceitando bem o comando prompt. Mas rodei no terminal online e estava tudo certo */
