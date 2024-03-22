@@ -28,5 +28,5 @@ sendo escolhida, mesmo que nesse ponto não exista confirmação visual.
 # Situação 2 (Resolução) - O interruptor que foi desligado foi o errado. Independente de qual das outras duas salas restantes forem escolhidas, a lógica acima será falha:
 - Ambas as salas estarão escuras e, no máximo, somente 1 interruptor será descoberto.
 
-// A situação B planejada requer riscos. Porém, como o objetivo é concluir qual interruptor controla cada lâmpada, eu decidi atribuir uma metodologia que mais otimizasse a probabilidade
-de sucesso em um caminho para chegar à conexão dos 3 interruptores.
+// A situação B planejada possui riscos. Porém, como o objetivo é concluir qual interruptor controla cada lâmpada, eu decidi atribuir uma metodologia que mais otimizasse a probabilidade
+de sucesso em um caminho que chegasse à resolução de todos os 3 interruptores.
