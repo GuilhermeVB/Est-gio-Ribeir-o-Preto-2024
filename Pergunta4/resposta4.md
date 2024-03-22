@@ -1,4 +1,4 @@
-4) Acenderia duas lâmpadas e iria para uma das salas. Nesse cenário, poderiam acontecer duas situações:
+Acenderia duas lâmpadas e iria para uma das salas. Nesse cenário, poderiam acontecer duas situações:
 
 # 1ª Ida
 # Situação A (33,3% de chance) - A luz estaria apagada e o interruptor desligado estaria atrelado à esta lâmpada (1/3).
