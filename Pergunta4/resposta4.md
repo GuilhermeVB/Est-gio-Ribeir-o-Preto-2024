@@ -26,7 +26,7 @@ e o interruptor apagado pertence a sala que sempre se manteve fechada.
 - A sala está escura. É preciso seguir o raciocínio aplicado até o fim e concluir a mesma hipótese da sala iluminada, com a ideia de que foi a sala com o interruptor apagado que acabou
 sendo escolhida, mesmo que nesse ponto não exista confirmação visual.
 # 2ª Situação (Resolução) - O interruptor que foi desligado foi o errado. Independente de qual das outras duas salas restantes forem escolhidas, a lógica acima será falha:
-- Ambas as salas estarão escuras e os três interruptores não serão descobertos.
+- Ambas as salas estarão escuras e, no máximo, somente 1 interruptor será descoberto.
 
 // A situação B planejada requer riscos. Porém, como o objetivo é concluir qual interruptor controla cada lâmpada, eu decidi atribuir uma metodologia que mais otimizasse a probabilidade
 de sucesso em um caminho para chegar à conexão dos 3 interruptores, mesmo que a taxa de sucesso seja de 50%.
