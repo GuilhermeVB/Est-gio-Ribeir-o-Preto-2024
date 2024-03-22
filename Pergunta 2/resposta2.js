@@ -14,3 +14,5 @@ if (busca === -1) {
 }
 
 /* Talvez esse código não rode direito no vscode, no meu caso ele não estava aceitando bem o comando prompt. Mas rodei no terminal online e estava tudo certo */
+
+/* Em caso de mal funcionamento deste código e por eu confiar mais no uso do input para coletar dados no vscode, criei uma versão web simples na mesma pasta em que esta se encontra */
