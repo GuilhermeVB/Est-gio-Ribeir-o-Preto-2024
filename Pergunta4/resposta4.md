@@ -29,4 +29,4 @@ sendo escolhida, mesmo que nesse ponto não exista confirmação visual.
 - Ambas as salas estarão escuras e, no máximo, somente 1 interruptor será descoberto.
 
 // A situação B planejada requer riscos. Porém, como o objetivo é concluir qual interruptor controla cada lâmpada, eu decidi atribuir uma metodologia que mais otimizasse a probabilidade
-de sucesso em um caminho para chegar à conexão dos 3 interruptores, mesmo que a taxa de sucesso seja de 50%.
+de sucesso em um caminho para chegar à conexão dos 3 interruptores.
