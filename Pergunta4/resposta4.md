@@ -19,7 +19,7 @@ Se, na pior das hipóteses, a situação B ocorrer. Basta desligar um dos dois i
 # 2ª Situação (50% de chance) - desligar a luz da sala que ainda não foi visitada. (0/3) ou (1/3)
 # FRACASSO
 
-# Resolução - Situação B
+Resolução - Situação B
 # 1ª Situação (Resolução) - O interruptor que foi desligado foi o certo. Independente de qual das outras duas salas restantes forem escolhidas, deve-se seguir a mesma lógica:
 - A sala está iluminada. Isto comprova que o único interruptor ligado pertence à esta sala, o interruptor que começou ligado e foi desligado pertence à primeira sala escolhida
 e o interruptor apagado pertence a sala que sempre se manteve fechada.
